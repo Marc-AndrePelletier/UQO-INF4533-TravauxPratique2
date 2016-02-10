@@ -1,0 +1,27 @@
+.contactInfo {
+border: 10px groove teal;
+margin-left: 40px;
+padding: 5px;
+width: 50%}
+
+.center {
+	text-align: center;
+	width: 50%;
+	margin-left: 40px;
+}
+
+.photo {
+	float: right;
+	width: 20%;
+	heigth: 20%;
+	margin-right: 10%;
+}
+
+body {
+width: 40%;
+margin-left: 10%;
+border: 2px solid black;
+padding-left: 25px;
+padding-right: 25px;
+padding-bottom: 25px;
+}
